@@ -37,3 +37,10 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+*.db
+
+### Teacher-only documents (stay local) ###
+CLASSES_REFERENCE_TEACHER_HE.md
+CLASSES_REFERENCE_EXTENDED_HE.md
+CLASSES_GUIDE_HE.md
